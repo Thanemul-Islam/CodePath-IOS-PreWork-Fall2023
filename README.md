@@ -38,6 +38,9 @@ GIF created with RecordIt
    * Ease of using a platform that allows seamless use of voice and video chat
    * Allow for you to change your status
 
+  - App Idea
+    * An idea for an app that I have been thinking about for many months is an app that would mute your phone when you are in a specific zone. The app would have       features where you can choose buildings where you want your phone to be muted or you can create circular zones where you would want your phone to be in silent.      There would be additional features where you can choose the people that are muted and the people that are allowed to call or message you while you are in the       zone. I think it can be a really useful app when it comes to people in the workplace and my original intention which was in religious buildings. It allows for      the user to not be put in ackward situations where there phone is buzzing in a quiet place. 
+
 ## Notes
 
 ## License
